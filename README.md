@@ -1,2 +1,2 @@
 # hello-world
-Let's get started
+Hi there, I am a student and I want to expand my skills in new and exciting projects.  
